@@ -3,3 +3,4 @@ Hello, World
 
 A simple program, and an example of how to structure a python project.
 A Jenkinsfile has been added which will run everytime a commit is pushed to any branch!
+It is important that the credentials are able to parse hooks
